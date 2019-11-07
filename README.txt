@@ -3,7 +3,7 @@ Steps to build and run
 
 1) Clone or download the project.
 2) Import the project in Eclipse/Intellij
-3) Open the command prompt on windows or terminal on linux and go the dir csv-calc.
+3) Open the command prompt on windows or terminal on linux and go the project directory.
 4) Execute the maven_build.bat on windows or maven_build.sh on linux(On linux file mode should be executable).
 5) Run the below command.
 java -jar target/spreadsheet-1.jar -i input.csv -o output.csv
